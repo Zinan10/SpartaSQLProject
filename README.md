@@ -16,7 +16,7 @@ This project was a mini SQL project using databases and recognisable SQL command
 
 
 
-## Northwind 
+## Northwind Questions
 Listed below are the questions we were tasked to answer.
 
 - Write a query that lists all Customers in either Paris or London. Include Customer ID, Company Name and all address fields. 
@@ -36,7 +36,7 @@ Listed below are the questions we were tasked to answer.
 - Write an SQL Statement to identify the Order Number of the Order with the highest amount(value) of discount applied to that order.MAX 
 
 
-## Spartans 
+## Spartans Questions
 
 - Write the correct SQL statement to create the following table: 
 
@@ -44,7 +44,7 @@ Spartans Table – include details about all the Spartans on this course. Separa
 
 - Write SQL statements to add the details of the Spartans in your course to the table you have created. 
 
-## Northwind + Excel 
+## Northwind + Excel Questions
 
 - List all Employees from the Employees table and who they report to.
 - List all Suppliers with total sales over $10,000 in the Order Details table. Include the Company Name from the Suppliers Table and present as a bar chart
