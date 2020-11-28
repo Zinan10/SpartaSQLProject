@@ -1,5 +1,15 @@
 # Sparta Global Mini SQL Project
 
+### Tools Used
+
+![git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![word](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
+![excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
+
+
+
+
 <img src = "https://media1.giphy.com/media/110dhxfJebYOTm/giphy.gif" width = "700">
 
 This project was a mini SQL project using databases and recognisable SQL commands to test our knowledge of SQL along with how we can present our resylts in Microsoft Word.
