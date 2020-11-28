@@ -1,5 +1,10 @@
 # Sparta Global Mini SQL Project
+
+<img src = "https://media1.giphy.com/media/110dhxfJebYOTm/giphy.gif" width = "700">
+
 This project was a mini SQL project using databases and recognisable SQL commands to test our knowledge of SQL along with how we can present our resylts in Microsoft Word.
+
+
 
 ## Northwind 
 Listed below are the questions we were tasked to answer.
